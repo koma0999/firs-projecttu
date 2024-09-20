@@ -1,0 +1,54 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    position: sticky;
+    background-image:url(./Bg.png) ;
+    height: 550px;   
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.box{
+    margin-top: -390px;
+;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+nav{
+    margin-right: 700px;
+}
+a{
+    text-decoration: none;
+    margin: 7px;
+    color: white;
+}
+select{
+    width: 150px;
+}
+img{
+    margin-left: 145px; 
+}
+main{
+    background-image: url(./black-color-solid-background-1920x1080.png); 
+ }
+p{
+   margin-left: 150px;
+}
+h1{
+    margin-left: 150px;    
+}
+    footer{
+        background-image: url(./Blog\ \(1\).png);
+        background-size: 100%;
+    }
+ .vid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-top:     40px;
+ }
